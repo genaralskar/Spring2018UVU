@@ -1,0 +1,30 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Castle Wall Export_lambert2SG_AlbedoTransparency.png
+bump Castle Wall Export_lambert2SG_Normal.png -bm 1
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Castle Tower Export_lambert3SG_AlbedoTransparency.png
+bump Castle Tower Export_lambert3SG_Normal.png -bm 1
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Castle Keep Export_lambert4SG_AlbedoTransparency.png
+bump Castle Keep Export_lambert4SG_Normal.png -bm 1
+Ni 1.00
