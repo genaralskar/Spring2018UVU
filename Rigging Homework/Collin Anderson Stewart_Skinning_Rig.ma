@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
-//Name: Stewart_Skinning_Rig.ma
-//Last modified: Thu, Apr 05, 2018 08:04:01 PM
+//Name: Collin Anderson Stewart_Skinning_Rig.ma
+//Last modified: Thu, Apr 05, 2018 08:04:17 PM
 //Codeset: 1252
 requires maya "2017ff05";
 requires "stereoCamera" "10.0";
@@ -31244,4 +31244,4 @@ connectAttr "stewart_anim_hair.msg" ":defaultShaderList1.s" -na;
 connectAttr "place2dTexture1.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "file1.msg" ":defaultTextureList1.tx" -na;
-// End of Stewart_Skinning_Rig.ma
+// End of Collin Anderson Stewart_Skinning_Rig.ma
